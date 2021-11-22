@@ -1,1 +1,2 @@
 # Information-Retrieval
+It is the first project of the course. The aim is to build a simple search engine based on 1000 given papers and design a web page to display the functions of our engine. The whole project is based on Java whose powerful package -- Lucene -- helps build the inverted index and achieve all kinds of searching fucntions.
