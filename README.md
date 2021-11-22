@@ -1,2 +1,1 @@
 # Information-Retrieval
- course project
